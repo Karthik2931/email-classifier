@@ -1,0 +1,50 @@
+╔═══════════════════════════════════════════════════════════════╗
+║           URGENT: ACTION REQUIRED TO FIX THE ERROR            ║
+╠═══════════════════════════════════════════════════════════════╣
+║                                                               ║
+║  Error: 403 access_denied                                     ║
+║  Reason: Your email is NOT added as a test user              ║
+║                                                               ║
+║  ⚠️  You MUST complete the steps below NOW                   ║
+║                                                               ║
+╚═══════════════════════════════════════════════════════════════╝
+
+📋 QUICK STEPS (5 minutes):
+
+1. Open: https://console.cloud.google.com/
+
+2. Search for: "oauth consent screen"
+   (Type in the search bar at the top)
+
+3. Click: "EDIT APP" button
+
+4. Go to: "Test users" tab/section
+
+5. Click: "ADD USERS" button
+
+6. Enter: nadellakarthikkumar@gmail.com
+
+7. Click: "SAVE"
+
+8. Wait: 5 minutes
+
+9. Restart dev server:
+   - Press Ctrl+C in terminal
+   - Run: npm run dev
+
+10. Try logging in again
+
+════════════════════════════════════════════════════════════════
+
+IMPORTANT:
+- Changes in Google Cloud take 5 minutes to apply
+- You MUST add your email address as a test user
+- You MUST restart your dev server
+- You MUST wait 5 minutes after adding your email
+
+════════════════════════════════════════════════════════════════
+
+Need more help?
+- See: STEP_BY_STEP_FIX.md for detailed instructions
+- See: FIX_ACCESS_BLOCKED_ERROR.md for full guide
+
