@@ -49,7 +49,7 @@ npm install
 Create a `.env.local` file in the root directory:
 
 ```env
-NEXT_PUBLIC_GOOGLE_CLIENT_ID=your_google_client_id_here
+NEXT_PUBLIC_GOOGLE_CLIENT_ID=641692746265-q1da47e5f24n5o1n9u4lapj6te0751er.apps.googleusercontent.com
 ```
 
 ### 4. Run the Application
