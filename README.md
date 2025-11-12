@@ -1,4 +1,4 @@
-# Email Classifier - MagicSlides.app Assignment
+# Email Classifier 
 
 A Next.js application that classifies Gmail messages using OpenAI GPT-4o with Google OAuth authentication.
 
